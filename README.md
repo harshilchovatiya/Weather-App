@@ -26,7 +26,8 @@ If you have any feedback, please reach out to us at harshilbmk@gmail.com
 
 
 ## Screenshots
-![whethwerapp-harshilchovatiya](https://github.com/harshilchovatiya/Weather-App/assets/131672641/fc018740-16fd-4ab1-9548-347bf75c6ec0)
+<img width="960" alt="whethwerapp-harshilchovatiya" src="https://github.com/harshilchovatiya/Weather-App/assets/131672641/eadfaa85-c9e0-4744-a851-0384a8df0a9a">
+
 
 ## 🚀 About Me
 I'm a Flutter developer...
