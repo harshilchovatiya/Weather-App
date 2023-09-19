@@ -1,7 +1,7 @@
 
 # Weather-App By Harshil Chovatiya
 
-Introducing the ClimaCare Weather App, meticulously crafted by the talented developer, Harshil Chovtiya, to revolutionize the way you experience and prepare for the weather. ClimaCare is not just another weather app; it's your personal meteorologist, your daily weather companion, and your go-to source for accurate weather forecasts.
+Introducing the ClimaCare Weather App, meticulously crafted by the talented developer, Harshil Chovatiya, to revolutionize the way you experience and prepare for the weather. ClimaCare is not just another weather app; it's your personal meteorologist, your daily weather companion, and your go-to source for accurate weather forecasts.
 
 # Hi, I'm Harshil! 👋
 
